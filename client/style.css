@@ -1,0 +1,24 @@
+body{
+    background-color: cornsilk;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* background color */
+}
+
+h1 {
+    color: crimson;
+    text-align: center;
+    /* crypto text color (cripto) */
+}
+
+button {
+    background-color: #43b6b6; /* Green background */
+    color: #dbd827;               /* White text */
+    border: 10mm;              /* No border */
+    border-radius: 8px;        /* Rounded corners (the button is chat gpt but i editing most of it, the rest is me and w3schools :) */
+    cursor: pointer;           /* Show pointer cursor */
+
+}
+button:hover {
+background-color: #1d788f; /* Darker green on hover */
+transform: scale(1.05);    /* Slight zoom effect */
+}
